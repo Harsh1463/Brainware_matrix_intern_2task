@@ -1,4 +1,6 @@
+# Brainware_Matrix_Intern_2task
 **ONLINE BANKING SYSTEM FUNCTIONALITY USING C++**
+---
 
 "This is a simple command-line based Online Banking System built using C++. The project simulates core banking functionalities like account creation, user authentication, balance inquiry, deposits, withdrawals, and transaction records. It’s designed for educational purposes, demonstrating concepts like object-oriented programming, file handling, and data validation in C++."
 
